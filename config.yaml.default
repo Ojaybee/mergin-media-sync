@@ -5,6 +5,7 @@ allowed_extensions:
 operation_mode: copy
 base_path:
 driver: local
+references_on: false
 
 mergin:
   url: https://app.merginmaps.com
