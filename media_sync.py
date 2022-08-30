@@ -179,7 +179,7 @@ def media_sync_push(mc, driver, files):
             continue
 
     # update reference table (if applicable)
-    if config.referenes_on == True:
+    if config.references_on == True:
         _update_references(migrated_files)
 
     # remove from local dir if move mode
