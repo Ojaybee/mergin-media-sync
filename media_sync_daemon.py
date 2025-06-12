@@ -1,3 +1,11 @@
+"""
+Mergin Media Sync - a tool to sync media files from Mergin projects to other storage backends
+
+Copyright (C) 2021 Lutra Consulting
+
+License: MIT
+"""
+
 import argparse
 import datetime
 import gc
